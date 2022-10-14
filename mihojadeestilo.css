@@ -1,0 +1,12 @@
+img{
+    height:100px;
+    border-radius: 3px;
+    border-color: aqua;
+    
+}
+
+img:hover{
+    opacity: 0.2;
+    -webkit-transition: opacity 0.3s;
+   transition: opacity 0.3s;
+}
